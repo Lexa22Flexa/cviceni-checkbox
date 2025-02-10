@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        //CheckboxFrame frameCh = new CheckboxFrame();
+        //frameCh.setVisible(true);
+        TlacitkaFrame frameT = new TlacitkaFrame();
+        frameT.setVisible(true);
     }
 }
